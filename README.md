@@ -1,35 +1,47 @@
-# HybridKla: A hybrid deep learning framework for lactylation site prediction
+# Kla 2026: Protein lysine lactylation site prediction
 
-## 🧬 Introduction
+## Project overview
 
-Lysine lactylation (Kla), a novel lactate-derived post-translational modification (PTM), is involved in a myriad of biological processes and complex diseases.
+This repository implements a machine-learning pipeline for predicting lysine
+lactylation (Kla) sites from fixed-length peptide windows centred on lysine.
+For every candidate site, the model outputs the probability that the centre
+lysine is lactylated.
 
-Here, we report a friendly online service.We manually collected 23,984 Kla sites across 7,297 proteins from 14 species to construct the comprehensive Kla benchmark dataset.
+The project focuses on three practical questions: how to extract useful
+representations from a pretrained protein Transformer, how to evaluate
+site-level predictions without leaking proteins across folds, and whether
+different sequence and statistical models provide complementary information.
 
-We designed a multi-feature hybrid system that combines ESM2 protein-language-model representations, an LSTM sequence model, and five handcrafted descriptors (ACF, AAINDEX, CKSAAP, OBC, and PSEAAC). The current protein-aware evaluation uses five-fold `StratifiedGroupKFold` splitting to keep peptides from the same protein in one fold. ESM2 representation ablations and the final stacking experiments are described in `EXPERIMENT_REPORT.md`.
-![Model Architecture](model.jpg)
+The implemented pipeline combines ESM2 representations, an LSTM sequence
+model, and five handcrafted descriptors (ACF, AAINDEX, CKSAAP, OBC, and
+PSEAAC). A stacking classifier integrates their out-of-fold predictions.
+Evaluation uses five-fold `StratifiedGroupKFold`, ensuring that sites from the
+same protein remain in the same fold. ESM2 pooling ablations, model comparison,
+and domain-adaptation experiments are documented in
+[`EXPERIMENT_REPORT.md`](EXPERIMENT_REPORT.md).
 
-## 🔧 Key Components
+## Main components
 
-### Prediction Module (`predict/`)
-- **predict.py**: Main script for batch processing protein sequences
-- **models/**: Contains trained models for prediction
-  - **ESM2/**: Fine-tuned protein language model files
-  - **LSTM.pth**: Sequence pattern recognition model
-  - **Meta-model checkpoints**: Final stacking classifiers
-  - **Feature-specific models**: ACF, AAINDEX, OBC, CKSAAP, and PSEAAC classifiers
+### Prediction (`predict/`)
 
-### Training Module (`train/`)
-- **ESM2.py**: ESM2 language model fine-tuning script
-- **LSTM.py**: LSTM model training implementation
-- **Five_feature_train.py**: Training script for five feature-specific models
-- **Encoding_fivefeatures.py**: Feature encoding implementation
-- **Meta_model_5D.py**: Five-dimensional meta-model training
+- `predict.py`: batch prediction entry point
+- `predict_znf800_*.py`: ZNF800 case-study inference
+- `predict_o15156_meta5d.py`: O15156/ZBTB7B case-study inference
+- `plot_znf800_lollipop.py`: site-level lollipop visualization
+
+### Training (`train/`)
+
+- `ESM2.py`: CLS baseline
+- `ESM2_E3.py` and `ESM2_E4.py`: ESM2 representation ablations
+- `LSTM.py`: LSTM baseline
+- `Encoding_fivefeatures.py` and `Five_feature_train.py`: handcrafted features
+- `Meta_model_5D.py`: five-input stacking model
+- `finetune_lab_e4_weighted.py`: weighted domain adaptation of the E4 head
 
 ### Protein-aware cross-validation
 
-The anonymized peptide identifiers can be recovered from the public HybridKla
-Supplementary Table S1 and UniProt:
+Protein identifiers can be reconstructed by matching the benchmark peptide
+windows against its supplementary table and UniProt sequences:
 
 ```bash
 .venv/bin/python data/recover_protein_ids.py --download-missing
@@ -42,7 +54,7 @@ excluded from training. The training scripts use the shared protein-level
 `train/` directory so their relative input and output paths resolve correctly.
 
 
-## 🚀 Installation
+## Installation
 
 ### Using Conda (Recommended)
 
