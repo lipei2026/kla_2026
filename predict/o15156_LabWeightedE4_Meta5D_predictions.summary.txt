@@ -1,0 +1,8 @@
+O15156/ZBTB7B prediction with lab-weighted E4 and retrained 5D MetaModel
+input_order: E4_lab_weighted, LSTM, AAINDEX, CKSAAP, OBC
+threshold: 0.50
+candidate_K_sites: 18
+predicted_positive_sites: 9
+mean_score: 0.441032
+max_score: 0.835115
+positive_sites_ranked: K60, K206, K212, K360, K61, K441, K450, K353, K418

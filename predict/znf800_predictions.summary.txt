@@ -1,0 +1,10 @@
+Positive-only external test summary
+Note: raw_data_lab.xlsx contains positive sites only, so AUC is not reported here.
+count: 24.000000
+mean_score: 0.241461
+median_score: 0.072676
+min_score: 0.022720
+max_score: 0.900184
+hit_rate@0.5: 0.166667
+hit_rate@0.7: 0.125000
+hit_rate@0.9: 0.041667

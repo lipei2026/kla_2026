@@ -1,0 +1,15 @@
+Lab-weighted E4 inference summary
+rows: 3528
+score_strategy: five_fold_ensemble_mean
+threshold: 0.50
+mean_score: 0.668257
+median_score: 0.808955
+predicted_positive: 2529
+predicted_positive_rate: 0.716837
+confirmed_positive_count: 1196
+confirmed_positive_recall: 0.940635
+confirmed_positive_mean_score: 0.848378
+unlabeled_count: 2332
+unlabeled_positive_rate: 0.602058
+unlabeled_mean_score: 0.575879
+note: Label=0 rows are unlabeled K sites, not verified negatives

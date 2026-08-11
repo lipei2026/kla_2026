@@ -1,0 +1,1021 @@
+experiment,fold,epoch,step,metric,value
+E0 CLS,1,1.0,130,train_loss,0.714
+E0 CLS,1,1.0,130,eval_loss,0.6893379092216492
+E0 CLS,1,2.0,260,train_loss,0.6955
+E0 CLS,1,2.0,260,eval_loss,0.6885759830474854
+E0 CLS,1,3.0,390,train_loss,0.6785
+E0 CLS,1,3.0,390,eval_loss,0.6622022390365601
+E0 CLS,1,4.0,520,train_loss,0.6571
+E0 CLS,1,4.0,520,eval_loss,0.6422502398490906
+E0 CLS,1,5.0,650,train_loss,0.6303
+E0 CLS,1,5.0,650,eval_loss,0.6388145685195923
+E0 CLS,1,6.0,780,train_loss,0.6088
+E0 CLS,1,6.0,780,eval_loss,0.5921968817710876
+E0 CLS,1,7.0,910,train_loss,0.5858
+E0 CLS,1,7.0,910,eval_loss,0.5861363410949707
+E0 CLS,1,8.0,1040,train_loss,0.567
+E0 CLS,1,8.0,1040,eval_loss,0.561103105545044
+E0 CLS,1,9.0,1170,train_loss,0.5496
+E0 CLS,1,9.0,1170,eval_loss,0.5576021671295166
+E0 CLS,1,10.0,1300,train_loss,0.5361
+E0 CLS,1,10.0,1300,eval_loss,0.5560523867607117
+E0 CLS,1,11.0,1430,train_loss,0.5264
+E0 CLS,1,11.0,1430,eval_loss,0.5438144207000732
+E0 CLS,1,12.0,1560,train_loss,0.5147
+E0 CLS,1,12.0,1560,eval_loss,0.5382357239723206
+E0 CLS,1,13.0,1690,train_loss,0.5081
+E0 CLS,1,13.0,1690,eval_loss,0.5341439247131348
+E0 CLS,1,14.0,1820,train_loss,0.4959
+E0 CLS,1,14.0,1820,eval_loss,0.5466142892837524
+E0 CLS,1,15.0,1950,train_loss,0.4909
+E0 CLS,1,15.0,1950,eval_loss,0.5376585125923157
+E0 CLS,1,16.0,2080,train_loss,0.4845
+E0 CLS,1,16.0,2080,eval_loss,0.5377260446548462
+E0 CLS,1,17.0,2210,train_loss,0.4778
+E0 CLS,1,17.0,2210,eval_loss,0.5314167141914368
+E0 CLS,1,18.0,2340,train_loss,0.4706
+E0 CLS,1,18.0,2340,eval_loss,0.5435548424720764
+E0 CLS,1,19.0,2470,train_loss,0.4633
+E0 CLS,1,19.0,2470,eval_loss,0.545423686504364
+E0 CLS,1,20.0,2600,train_loss,0.4538
+E0 CLS,1,20.0,2600,eval_loss,0.5483932495117188
+E0 CLS,1,21.0,2730,train_loss,0.4488
+E0 CLS,1,21.0,2730,eval_loss,0.5497696399688721
+E0 CLS,1,22.0,2860,train_loss,0.4415
+E0 CLS,1,22.0,2860,eval_loss,0.5583165884017944
+E0 CLS,1,23.0,2990,train_loss,0.4374
+E0 CLS,1,23.0,2990,eval_loss,0.559711754322052
+E0 CLS,2,1.0,133,train_loss,0.7152
+E0 CLS,2,1.0,133,eval_loss,0.6936129927635193
+E0 CLS,2,2.0,266,train_loss,0.6944
+E0 CLS,2,2.0,266,eval_loss,0.695428192615509
+E0 CLS,2,3.0,399,train_loss,0.678
+E0 CLS,2,3.0,399,eval_loss,0.6985448598861694
+E0 CLS,2,4.0,532,train_loss,0.6558
+E0 CLS,2,4.0,532,eval_loss,0.6856750249862671
+E0 CLS,2,5.0,665,train_loss,0.6304
+E0 CLS,2,5.0,665,eval_loss,0.6502782106399536
+E0 CLS,2,6.0,798,train_loss,0.5998
+E0 CLS,2,6.0,798,eval_loss,0.6173115372657776
+E0 CLS,2,7.0,931,train_loss,0.5714
+E0 CLS,2,7.0,931,eval_loss,0.5637481212615967
+E0 CLS,2,8.0,1064,train_loss,0.5521
+E0 CLS,2,8.0,1064,eval_loss,0.551221489906311
+E0 CLS,2,9.0,1197,train_loss,0.5356
+E0 CLS,2,9.0,1197,eval_loss,0.5471018552780151
+E0 CLS,2,10.0,1330,train_loss,0.5256
+E0 CLS,2,10.0,1330,eval_loss,0.5514054298400879
+E0 CLS,2,11.0,1463,train_loss,0.5106
+E0 CLS,2,11.0,1463,eval_loss,0.5435940027236938
+E0 CLS,2,12.0,1596,train_loss,0.5026
+E0 CLS,2,12.0,1596,eval_loss,0.5284019112586975
+E0 CLS,2,13.0,1729,train_loss,0.497
+E0 CLS,2,13.0,1729,eval_loss,0.5499165654182434
+E0 CLS,2,14.0,1862,train_loss,0.4864
+E0 CLS,2,14.0,1862,eval_loss,0.5428919196128845
+E0 CLS,2,15.0,1995,train_loss,0.4795
+E0 CLS,2,15.0,1995,eval_loss,0.5477232933044434
+E0 CLS,2,16.0,2128,train_loss,0.4698
+E0 CLS,2,16.0,2128,eval_loss,0.5364160537719727
+E0 CLS,2,17.0,2261,train_loss,0.4632
+E0 CLS,2,17.0,2261,eval_loss,0.5657491087913513
+E0 CLS,2,18.0,2394,train_loss,0.4523
+E0 CLS,2,18.0,2394,eval_loss,0.5466020703315735
+E0 CLS,2,19.0,2527,train_loss,0.4444
+E0 CLS,2,19.0,2527,eval_loss,0.5588196516036987
+E0 CLS,2,20.0,2660,train_loss,0.4369
+E0 CLS,2,20.0,2660,eval_loss,0.588271975517273
+E0 CLS,3,1.0,130,train_loss,0.7244
+E0 CLS,3,1.0,130,eval_loss,0.6867879629135132
+E0 CLS,3,2.0,260,train_loss,0.6958
+E0 CLS,3,2.0,260,eval_loss,0.6798677444458008
+E0 CLS,3,3.0,390,train_loss,0.6806
+E0 CLS,3,3.0,390,eval_loss,0.6812789440155029
+E0 CLS,3,4.0,520,train_loss,0.6638
+E0 CLS,3,4.0,520,eval_loss,0.6658430099487305
+E0 CLS,3,5.0,650,train_loss,0.6384
+E0 CLS,3,5.0,650,eval_loss,0.6228541135787964
+E0 CLS,3,6.0,780,train_loss,0.6127
+E0 CLS,3,6.0,780,eval_loss,0.603205144405365
+E0 CLS,3,7.0,910,train_loss,0.5941
+E0 CLS,3,7.0,910,eval_loss,0.5831059217453003
+E0 CLS,3,8.0,1040,train_loss,0.5746
+E0 CLS,3,8.0,1040,eval_loss,0.5673636198043823
+E0 CLS,3,9.0,1170,train_loss,0.5571
+E0 CLS,3,9.0,1170,eval_loss,0.5682175755500793
+E0 CLS,3,10.0,1300,train_loss,0.5458
+E0 CLS,3,10.0,1300,eval_loss,0.5638917684555054
+E0 CLS,3,11.0,1430,train_loss,0.5351
+E0 CLS,3,11.0,1430,eval_loss,0.5419748425483704
+E0 CLS,3,12.0,1560,train_loss,0.5245
+E0 CLS,3,12.0,1560,eval_loss,0.5445321798324585
+E0 CLS,3,13.0,1690,train_loss,0.5157
+E0 CLS,3,13.0,1690,eval_loss,0.5394273400306702
+E0 CLS,3,14.0,1820,train_loss,0.5032
+E0 CLS,3,14.0,1820,eval_loss,0.568159818649292
+E0 CLS,3,15.0,1950,train_loss,0.4973
+E0 CLS,3,15.0,1950,eval_loss,0.5399338006973267
+E0 CLS,3,16.0,2080,train_loss,0.4893
+E0 CLS,3,16.0,2080,eval_loss,0.5437131524085999
+E0 CLS,3,17.0,2210,train_loss,0.4769
+E0 CLS,3,17.0,2210,eval_loss,0.5575994849205017
+E0 CLS,3,18.0,2340,train_loss,0.4718
+E0 CLS,3,18.0,2340,eval_loss,0.5634002089500427
+E0 CLS,3,19.0,2470,train_loss,0.4652
+E0 CLS,3,19.0,2470,eval_loss,0.574684739112854
+E0 CLS,3,20.0,2600,train_loss,0.4556
+E0 CLS,3,20.0,2600,eval_loss,0.5645593404769897
+E0 CLS,3,21.0,2730,train_loss,0.4455
+E0 CLS,3,21.0,2730,eval_loss,0.5772713422775269
+E0 CLS,4,1.0,134,train_loss,0.7384
+E0 CLS,4,1.0,134,eval_loss,0.6888237595558167
+E0 CLS,4,2.0,268,train_loss,0.695
+E0 CLS,4,2.0,268,eval_loss,0.691332995891571
+E0 CLS,4,3.0,402,train_loss,0.6775
+E0 CLS,4,3.0,402,eval_loss,0.7002975940704346
+E0 CLS,4,4.0,536,train_loss,0.6634
+E0 CLS,4,4.0,536,eval_loss,0.6569648385047913
+E0 CLS,4,5.0,670,train_loss,0.6382
+E0 CLS,4,5.0,670,eval_loss,0.6141917109489441
+E0 CLS,4,6.0,804,train_loss,0.6157
+E0 CLS,4,6.0,804,eval_loss,0.5963376760482788
+E0 CLS,4,7.0,938,train_loss,0.5984
+E0 CLS,4,7.0,938,eval_loss,0.5832386612892151
+E0 CLS,4,8.0,1072,train_loss,0.583
+E0 CLS,4,8.0,1072,eval_loss,0.5598345994949341
+E0 CLS,4,9.0,1206,train_loss,0.568
+E0 CLS,4,9.0,1206,eval_loss,0.5613023638725281
+E0 CLS,4,10.0,1340,train_loss,0.5508
+E0 CLS,4,10.0,1340,eval_loss,0.5408483743667603
+E0 CLS,4,11.0,1474,train_loss,0.5366
+E0 CLS,4,11.0,1474,eval_loss,0.5479369759559631
+E0 CLS,4,12.0,1608,train_loss,0.5259
+E0 CLS,4,12.0,1608,eval_loss,0.5438302755355835
+E0 CLS,4,13.0,1742,train_loss,0.5131
+E0 CLS,4,13.0,1742,eval_loss,0.532749354839325
+E0 CLS,4,14.0,1876,train_loss,0.505
+E0 CLS,4,14.0,1876,eval_loss,0.5228332281112671
+E0 CLS,4,15.0,2010,train_loss,0.4966
+E0 CLS,4,15.0,2010,eval_loss,0.5390874147415161
+E0 CLS,4,16.0,2144,train_loss,0.4866
+E0 CLS,4,16.0,2144,eval_loss,0.5361477136611938
+E0 CLS,4,17.0,2278,train_loss,0.4803
+E0 CLS,4,17.0,2278,eval_loss,0.5632325410842896
+E0 CLS,4,18.0,2412,train_loss,0.4676
+E0 CLS,4,18.0,2412,eval_loss,0.5415036082267761
+E0 CLS,4,19.0,2546,train_loss,0.4618
+E0 CLS,4,19.0,2546,eval_loss,0.5426006317138672
+E0 CLS,4,20.0,2680,train_loss,0.4523
+E0 CLS,4,20.0,2680,eval_loss,0.5575087666511536
+E0 CLS,4,21.0,2814,train_loss,0.4439
+E0 CLS,4,21.0,2814,eval_loss,0.5689406394958496
+E0 CLS,4,22.0,2948,train_loss,0.4401
+E0 CLS,4,22.0,2948,eval_loss,0.5674167275428772
+E0 CLS,5,1.0,131,train_loss,0.7127
+E0 CLS,5,1.0,131,eval_loss,0.6998960375785828
+E0 CLS,5,2.0,262,train_loss,0.6922
+E0 CLS,5,2.0,262,eval_loss,0.7100132703781128
+E0 CLS,5,3.0,393,train_loss,0.6775
+E0 CLS,5,3.0,393,eval_loss,0.677983283996582
+E0 CLS,5,4.0,524,train_loss,0.6555
+E0 CLS,5,4.0,524,eval_loss,0.6547739505767822
+E0 CLS,5,5.0,655,train_loss,0.6288
+E0 CLS,5,5.0,655,eval_loss,0.6455383896827698
+E0 CLS,5,6.0,786,train_loss,0.6031
+E0 CLS,5,6.0,786,eval_loss,0.6213560700416565
+E0 CLS,5,7.0,917,train_loss,0.5828
+E0 CLS,5,7.0,917,eval_loss,0.6042839288711548
+E0 CLS,5,8.0,1048,train_loss,0.5598
+E0 CLS,5,8.0,1048,eval_loss,0.5905855298042297
+E0 CLS,5,9.0,1179,train_loss,0.5457
+E0 CLS,5,9.0,1179,eval_loss,0.5717425346374512
+E0 CLS,5,10.0,1310,train_loss,0.5327
+E0 CLS,5,10.0,1310,eval_loss,0.5687990784645081
+E0 CLS,5,11.0,1441,train_loss,0.5207
+E0 CLS,5,11.0,1441,eval_loss,0.560395359992981
+E0 CLS,5,12.0,1572,train_loss,0.512
+E0 CLS,5,12.0,1572,eval_loss,0.5695953369140625
+E0 CLS,5,13.0,1703,train_loss,0.506
+E0 CLS,5,13.0,1703,eval_loss,0.5649684071540833
+E0 CLS,5,14.0,1834,train_loss,0.4961
+E0 CLS,5,14.0,1834,eval_loss,0.5689342617988586
+E0 CLS,5,15.0,1965,train_loss,0.4888
+E0 CLS,5,15.0,1965,eval_loss,0.5546423196792603
+E0 CLS,5,16.0,2096,train_loss,0.4802
+E0 CLS,5,16.0,2096,eval_loss,0.5729842185974121
+E0 CLS,5,17.0,2227,train_loss,0.4737
+E0 CLS,5,17.0,2227,eval_loss,0.5728139877319336
+E0 CLS,5,18.0,2358,train_loss,0.4639
+E0 CLS,5,18.0,2358,eval_loss,0.5892820358276367
+E0 CLS,5,19.0,2489,train_loss,0.4545
+E0 CLS,5,19.0,2489,eval_loss,0.5897656083106995
+E0 CLS,5,20.0,2620,train_loss,0.4487
+E0 CLS,5,20.0,2620,eval_loss,0.5989025235176086
+E0 CLS,5,21.0,2751,train_loss,0.4417
+E0 CLS,5,21.0,2751,eval_loss,0.5922549962997437
+E0 CLS,5,22.0,2882,train_loss,0.4349
+E0 CLS,5,22.0,2882,eval_loss,0.5958182215690613
+E0 CLS,5,23.0,3013,train_loss,0.4283
+E0 CLS,5,23.0,3013,eval_loss,0.6088478565216064
+E1 Center-K,1,1.0,130,train_loss,0.7145
+E1 Center-K,1,1.0,130,eval_loss,0.6826750636100769
+E1 Center-K,1,2.0,260,train_loss,0.6915
+E1 Center-K,1,2.0,260,eval_loss,0.6577304005622864
+E1 Center-K,1,3.0,390,train_loss,0.6639
+E1 Center-K,1,3.0,390,eval_loss,0.6372224688529968
+E1 Center-K,1,4.0,520,train_loss,0.6251
+E1 Center-K,1,4.0,520,eval_loss,0.6047186255455017
+E1 Center-K,1,5.0,650,train_loss,0.5838
+E1 Center-K,1,5.0,650,eval_loss,0.6029113531112671
+E1 Center-K,1,6.0,780,train_loss,0.5494
+E1 Center-K,1,6.0,780,eval_loss,0.5721248984336853
+E1 Center-K,1,7.0,910,train_loss,0.5334
+E1 Center-K,1,7.0,910,eval_loss,0.5633977651596069
+E1 Center-K,1,8.0,1040,train_loss,0.5224
+E1 Center-K,1,8.0,1040,eval_loss,0.5551486015319824
+E1 Center-K,1,9.0,1170,train_loss,0.5091
+E1 Center-K,1,9.0,1170,eval_loss,0.5740663409233093
+E1 Center-K,1,10.0,1300,train_loss,0.5046
+E1 Center-K,1,10.0,1300,eval_loss,0.5548965334892273
+E1 Center-K,1,11.0,1430,train_loss,0.4966
+E1 Center-K,1,11.0,1430,eval_loss,0.5484708547592163
+E1 Center-K,1,12.0,1560,train_loss,0.4883
+E1 Center-K,1,12.0,1560,eval_loss,0.5460819602012634
+E1 Center-K,1,13.0,1690,train_loss,0.4802
+E1 Center-K,1,13.0,1690,eval_loss,0.5653905868530273
+E1 Center-K,1,14.0,1820,train_loss,0.4713
+E1 Center-K,1,14.0,1820,eval_loss,0.5615381598472595
+E1 Center-K,1,15.0,1950,train_loss,0.4655
+E1 Center-K,1,15.0,1950,eval_loss,0.5571620464324951
+E1 Center-K,1,16.0,2080,train_loss,0.4576
+E1 Center-K,1,16.0,2080,eval_loss,0.5524858832359314
+E1 Center-K,1,17.0,2210,train_loss,0.4492
+E1 Center-K,1,17.0,2210,eval_loss,0.5573692917823792
+E1 Center-K,1,18.0,2340,train_loss,0.4415
+E1 Center-K,1,18.0,2340,eval_loss,0.5694031715393066
+E1 Center-K,1,19.0,2470,train_loss,0.435
+E1 Center-K,1,19.0,2470,eval_loss,0.5792235732078552
+E1 Center-K,1,20.0,2600,train_loss,0.4238
+E1 Center-K,1,20.0,2600,eval_loss,0.579795777797699
+E1 Center-K,1,21.0,2730,train_loss,0.4198
+E1 Center-K,1,21.0,2730,eval_loss,0.572638750076294
+E1 Center-K,1,22.0,2860,train_loss,0.41
+E1 Center-K,1,22.0,2860,eval_loss,0.5919605493545532
+E1 Center-K,1,23.0,2990,train_loss,0.4045
+E1 Center-K,1,23.0,2990,eval_loss,0.5994232892990112
+E1 Center-K,1,24.0,3120,train_loss,0.3927
+E1 Center-K,1,24.0,3120,eval_loss,0.617283821105957
+E1 Center-K,2,1.0,133,train_loss,0.7256
+E1 Center-K,2,1.0,133,eval_loss,0.7103626728057861
+E1 Center-K,2,2.0,266,train_loss,0.6858
+E1 Center-K,2,2.0,266,eval_loss,0.7022966146469116
+E1 Center-K,2,3.0,399,train_loss,0.6571
+E1 Center-K,2,3.0,399,eval_loss,0.6519303321838379
+E1 Center-K,2,4.0,532,train_loss,0.6139
+E1 Center-K,2,4.0,532,eval_loss,0.6098204851150513
+E1 Center-K,2,5.0,665,train_loss,0.5835
+E1 Center-K,2,5.0,665,eval_loss,0.5684038400650024
+E1 Center-K,2,6.0,798,train_loss,0.5513
+E1 Center-K,2,6.0,798,eval_loss,0.5608896613121033
+E1 Center-K,2,7.0,931,train_loss,0.5326
+E1 Center-K,2,7.0,931,eval_loss,0.5401215553283691
+E1 Center-K,2,8.0,1064,train_loss,0.5195
+E1 Center-K,2,8.0,1064,eval_loss,0.5347875952720642
+E1 Center-K,2,9.0,1197,train_loss,0.5082
+E1 Center-K,2,9.0,1197,eval_loss,0.5204876661300659
+E1 Center-K,2,10.0,1330,train_loss,0.4977
+E1 Center-K,2,10.0,1330,eval_loss,0.5220836997032166
+E1 Center-K,2,11.0,1463,train_loss,0.4913
+E1 Center-K,2,11.0,1463,eval_loss,0.521876335144043
+E1 Center-K,2,12.0,1596,train_loss,0.4827
+E1 Center-K,2,12.0,1596,eval_loss,0.5146952867507935
+E1 Center-K,2,13.0,1729,train_loss,0.4737
+E1 Center-K,2,13.0,1729,eval_loss,0.5297117829322815
+E1 Center-K,2,14.0,1862,train_loss,0.4642
+E1 Center-K,2,14.0,1862,eval_loss,0.5290234684944153
+E1 Center-K,2,15.0,1995,train_loss,0.4581
+E1 Center-K,2,15.0,1995,eval_loss,0.537578284740448
+E1 Center-K,2,16.0,2128,train_loss,0.4463
+E1 Center-K,2,16.0,2128,eval_loss,0.5390715599060059
+E1 Center-K,2,17.0,2261,train_loss,0.4408
+E1 Center-K,2,17.0,2261,eval_loss,0.558463990688324
+E1 Center-K,2,18.0,2394,train_loss,0.4317
+E1 Center-K,2,18.0,2394,eval_loss,0.5527834296226501
+E1 Center-K,2,19.0,2527,train_loss,0.4214
+E1 Center-K,2,19.0,2527,eval_loss,0.5430534482002258
+E1 Center-K,2,20.0,2660,train_loss,0.4152
+E1 Center-K,2,20.0,2660,eval_loss,0.5838813185691833
+E1 Center-K,3,1.0,130,train_loss,0.7275
+E1 Center-K,3,1.0,130,eval_loss,0.6937938332557678
+E1 Center-K,3,2.0,260,train_loss,0.6945
+E1 Center-K,3,2.0,260,eval_loss,0.6657310724258423
+E1 Center-K,3,3.0,390,train_loss,0.6709
+E1 Center-K,3,3.0,390,eval_loss,0.6481513381004333
+E1 Center-K,3,4.0,520,train_loss,0.636
+E1 Center-K,3,4.0,520,eval_loss,0.6191827058792114
+E1 Center-K,3,5.0,650,train_loss,0.6057
+E1 Center-K,3,5.0,650,eval_loss,0.599894106388092
+E1 Center-K,3,6.0,780,train_loss,0.5708
+E1 Center-K,3,6.0,780,eval_loss,0.5608246922492981
+E1 Center-K,3,7.0,910,train_loss,0.5435
+E1 Center-K,3,7.0,910,eval_loss,0.5455708503723145
+E1 Center-K,3,8.0,1040,train_loss,0.528
+E1 Center-K,3,8.0,1040,eval_loss,0.5408498048782349
+E1 Center-K,3,9.0,1170,train_loss,0.5147
+E1 Center-K,3,9.0,1170,eval_loss,0.544891893863678
+E1 Center-K,3,10.0,1300,train_loss,0.5077
+E1 Center-K,3,10.0,1300,eval_loss,0.544999897480011
+E1 Center-K,3,11.0,1430,train_loss,0.4972
+E1 Center-K,3,11.0,1430,eval_loss,0.5499266982078552
+E1 Center-K,3,12.0,1560,train_loss,0.4921
+E1 Center-K,3,12.0,1560,eval_loss,0.5381200313568115
+E1 Center-K,3,13.0,1690,train_loss,0.4826
+E1 Center-K,3,13.0,1690,eval_loss,0.5358578562736511
+E1 Center-K,3,14.0,1820,train_loss,0.4763
+E1 Center-K,3,14.0,1820,eval_loss,0.5455489158630371
+E1 Center-K,3,15.0,1950,train_loss,0.4663
+E1 Center-K,3,15.0,1950,eval_loss,0.540988028049469
+E1 Center-K,3,16.0,2080,train_loss,0.4578
+E1 Center-K,3,16.0,2080,eval_loss,0.5480469465255737
+E1 Center-K,3,17.0,2210,train_loss,0.4497
+E1 Center-K,3,17.0,2210,eval_loss,0.5557284951210022
+E1 Center-K,3,18.0,2340,train_loss,0.4451
+E1 Center-K,3,18.0,2340,eval_loss,0.5593271851539612
+E1 Center-K,3,19.0,2470,train_loss,0.4354
+E1 Center-K,3,19.0,2470,eval_loss,0.5700545907020569
+E1 Center-K,3,20.0,2600,train_loss,0.4283
+E1 Center-K,3,20.0,2600,eval_loss,0.5734009146690369
+E1 Center-K,3,21.0,2730,train_loss,0.4168
+E1 Center-K,3,21.0,2730,eval_loss,0.5900792479515076
+E1 Center-K,4,1.0,134,train_loss,0.739
+E1 Center-K,4,1.0,134,eval_loss,0.6858481168746948
+E1 Center-K,4,2.0,268,train_loss,0.6909
+E1 Center-K,4,2.0,268,eval_loss,0.6666069030761719
+E1 Center-K,4,3.0,402,train_loss,0.6638
+E1 Center-K,4,3.0,402,eval_loss,0.6466047167778015
+E1 Center-K,4,4.0,536,train_loss,0.6321
+E1 Center-K,4,4.0,536,eval_loss,0.5956360101699829
+E1 Center-K,4,5.0,670,train_loss,0.5916
+E1 Center-K,4,5.0,670,eval_loss,0.5474287271499634
+E1 Center-K,4,6.0,804,train_loss,0.5563
+E1 Center-K,4,6.0,804,eval_loss,0.5274667143821716
+E1 Center-K,4,7.0,938,train_loss,0.5341
+E1 Center-K,4,7.0,938,eval_loss,0.5365731120109558
+E1 Center-K,4,8.0,1072,train_loss,0.5218
+E1 Center-K,4,8.0,1072,eval_loss,0.5150169134140015
+E1 Center-K,4,9.0,1206,train_loss,0.5101
+E1 Center-K,4,9.0,1206,eval_loss,0.5144240260124207
+E1 Center-K,4,10.0,1340,train_loss,0.5025
+E1 Center-K,4,10.0,1340,eval_loss,0.5136291980743408
+E1 Center-K,4,11.0,1474,train_loss,0.4938
+E1 Center-K,4,11.0,1474,eval_loss,0.5227301716804504
+E1 Center-K,4,12.0,1608,train_loss,0.4848
+E1 Center-K,4,12.0,1608,eval_loss,0.5181657671928406
+E1 Center-K,4,13.0,1742,train_loss,0.477
+E1 Center-K,4,13.0,1742,eval_loss,0.5225865244865417
+E1 Center-K,4,14.0,1876,train_loss,0.4731
+E1 Center-K,4,14.0,1876,eval_loss,0.5197522640228271
+E1 Center-K,4,15.0,2010,train_loss,0.4625
+E1 Center-K,4,15.0,2010,eval_loss,0.5276882648468018
+E1 Center-K,4,16.0,2144,train_loss,0.4528
+E1 Center-K,4,16.0,2144,eval_loss,0.5416026711463928
+E1 Center-K,4,17.0,2278,train_loss,0.4454
+E1 Center-K,4,17.0,2278,eval_loss,0.5577072501182556
+E1 Center-K,4,18.0,2412,train_loss,0.4364
+E1 Center-K,4,18.0,2412,eval_loss,0.5497674345970154
+E1 Center-K,4,19.0,2546,train_loss,0.4263
+E1 Center-K,4,19.0,2546,eval_loss,0.5606138110160828
+E1 Center-K,5,1.0,131,train_loss,0.7156
+E1 Center-K,5,1.0,131,eval_loss,0.6960510611534119
+E1 Center-K,5,2.0,262,train_loss,0.6914
+E1 Center-K,5,2.0,262,eval_loss,0.6784234642982483
+E1 Center-K,5,3.0,393,train_loss,0.6656
+E1 Center-K,5,3.0,393,eval_loss,0.6487529873847961
+E1 Center-K,5,4.0,524,train_loss,0.6349
+E1 Center-K,5,4.0,524,eval_loss,0.6171347498893738
+E1 Center-K,5,5.0,655,train_loss,0.5916
+E1 Center-K,5,5.0,655,eval_loss,0.5944822430610657
+E1 Center-K,5,6.0,786,train_loss,0.5557
+E1 Center-K,5,6.0,786,eval_loss,0.5612227916717529
+E1 Center-K,5,7.0,917,train_loss,0.5378
+E1 Center-K,5,7.0,917,eval_loss,0.5684897303581238
+E1 Center-K,5,8.0,1048,train_loss,0.5233
+E1 Center-K,5,8.0,1048,eval_loss,0.554655134677887
+E1 Center-K,5,9.0,1179,train_loss,0.513
+E1 Center-K,5,9.0,1179,eval_loss,0.5608208775520325
+E1 Center-K,5,10.0,1310,train_loss,0.5037
+E1 Center-K,5,10.0,1310,eval_loss,0.5634110569953918
+E1 Center-K,5,11.0,1441,train_loss,0.4955
+E1 Center-K,5,11.0,1441,eval_loss,0.5589196085929871
+E1 Center-K,5,12.0,1572,train_loss,0.4889
+E1 Center-K,5,12.0,1572,eval_loss,0.5667614340782166
+E1 Center-K,5,13.0,1703,train_loss,0.4812
+E1 Center-K,5,13.0,1703,eval_loss,0.5650697350502014
+E1 Center-K,5,14.0,1834,train_loss,0.4737
+E1 Center-K,5,14.0,1834,eval_loss,0.5692058801651001
+E1 Center-K,5,15.0,1965,train_loss,0.4645
+E1 Center-K,5,15.0,1965,eval_loss,0.5624447464942932
+E1 Center-K,5,16.0,2096,train_loss,0.4569
+E1 Center-K,5,16.0,2096,eval_loss,0.5738231539726257
+E1 Center-K,5,17.0,2227,train_loss,0.4485
+E1 Center-K,5,17.0,2227,eval_loss,0.5892335176467896
+E2 Masked mean,1,1.0,130,train_loss,0.7079
+E2 Masked mean,1,1.0,130,eval_loss,0.6817628741264343
+E2 Masked mean,1,2.0,260,train_loss,0.6806
+E2 Masked mean,1,2.0,260,eval_loss,0.6610543727874756
+E2 Masked mean,1,3.0,390,train_loss,0.6645
+E2 Masked mean,1,3.0,390,eval_loss,0.6595029830932617
+E2 Masked mean,1,4.0,520,train_loss,0.6468
+E2 Masked mean,1,4.0,520,eval_loss,0.6320030093193054
+E2 Masked mean,1,5.0,650,train_loss,0.6205
+E2 Masked mean,1,5.0,650,eval_loss,0.6001539826393127
+E2 Masked mean,1,6.0,780,train_loss,0.5951
+E2 Masked mean,1,6.0,780,eval_loss,0.5780789852142334
+E2 Masked mean,1,7.0,910,train_loss,0.5737
+E2 Masked mean,1,7.0,910,eval_loss,0.5479469895362854
+E2 Masked mean,1,8.0,1040,train_loss,0.5484
+E2 Masked mean,1,8.0,1040,eval_loss,0.5646094679832458
+E2 Masked mean,1,9.0,1170,train_loss,0.5338
+E2 Masked mean,1,9.0,1170,eval_loss,0.54347825050354
+E2 Masked mean,1,10.0,1300,train_loss,0.5196
+E2 Masked mean,1,10.0,1300,eval_loss,0.5448707342147827
+E2 Masked mean,1,11.0,1430,train_loss,0.5082
+E2 Masked mean,1,11.0,1430,eval_loss,0.5260384678840637
+E2 Masked mean,1,12.0,1560,train_loss,0.5001
+E2 Masked mean,1,12.0,1560,eval_loss,0.5136794447898865
+E2 Masked mean,1,13.0,1690,train_loss,0.4911
+E2 Masked mean,1,13.0,1690,eval_loss,0.5132409930229187
+E2 Masked mean,1,14.0,1820,train_loss,0.485
+E2 Masked mean,1,14.0,1820,eval_loss,0.5132268071174622
+E2 Masked mean,1,15.0,1950,train_loss,0.477
+E2 Masked mean,1,15.0,1950,eval_loss,0.5256329774856567
+E2 Masked mean,1,16.0,2080,train_loss,0.4696
+E2 Masked mean,1,16.0,2080,eval_loss,0.5270271897315979
+E2 Masked mean,1,17.0,2210,train_loss,0.463
+E2 Masked mean,1,17.0,2210,eval_loss,0.5151454210281372
+E2 Masked mean,1,18.0,2340,train_loss,0.4575
+E2 Masked mean,1,18.0,2340,eval_loss,0.5249516367912292
+E2 Masked mean,1,19.0,2470,train_loss,0.4457
+E2 Masked mean,1,19.0,2470,eval_loss,0.5326519012451172
+E2 Masked mean,1,20.0,2600,train_loss,0.4421
+E2 Masked mean,1,20.0,2600,eval_loss,0.5426331758499146
+E2 Masked mean,1,21.0,2730,train_loss,0.4351
+E2 Masked mean,1,21.0,2730,eval_loss,0.5405820608139038
+E2 Masked mean,2,1.0,133,train_loss,0.6957
+E2 Masked mean,2,1.0,133,eval_loss,0.67919921875
+E2 Masked mean,2,2.0,266,train_loss,0.6797
+E2 Masked mean,2,2.0,266,eval_loss,0.6995487809181213
+E2 Masked mean,2,3.0,399,train_loss,0.662
+E2 Masked mean,2,3.0,399,eval_loss,0.6603493094444275
+E2 Masked mean,2,4.0,532,train_loss,0.6398
+E2 Masked mean,2,4.0,532,eval_loss,0.6487208008766174
+E2 Masked mean,2,5.0,665,train_loss,0.6147
+E2 Masked mean,2,5.0,665,eval_loss,0.6093611121177673
+E2 Masked mean,2,6.0,798,train_loss,0.5898
+E2 Masked mean,2,6.0,798,eval_loss,0.6005623936653137
+E2 Masked mean,2,7.0,931,train_loss,0.5644
+E2 Masked mean,2,7.0,931,eval_loss,0.5474858283996582
+E2 Masked mean,2,8.0,1064,train_loss,0.5405
+E2 Masked mean,2,8.0,1064,eval_loss,0.53746497631073
+E2 Masked mean,2,9.0,1197,train_loss,0.5253
+E2 Masked mean,2,9.0,1197,eval_loss,0.5188618898391724
+E2 Masked mean,2,10.0,1330,train_loss,0.5119
+E2 Masked mean,2,10.0,1330,eval_loss,0.5237524509429932
+E2 Masked mean,2,11.0,1463,train_loss,0.5002
+E2 Masked mean,2,11.0,1463,eval_loss,0.5068730711936951
+E2 Masked mean,2,12.0,1596,train_loss,0.4914
+E2 Masked mean,2,12.0,1596,eval_loss,0.5059966444969177
+E2 Masked mean,2,13.0,1729,train_loss,0.4842
+E2 Masked mean,2,13.0,1729,eval_loss,0.5220683813095093
+E2 Masked mean,2,14.0,1862,train_loss,0.4769
+E2 Masked mean,2,14.0,1862,eval_loss,0.5198456645011902
+E2 Masked mean,2,15.0,1995,train_loss,0.4689
+E2 Masked mean,2,15.0,1995,eval_loss,0.5257962346076965
+E2 Masked mean,2,16.0,2128,train_loss,0.4591
+E2 Masked mean,2,16.0,2128,eval_loss,0.5148609280586243
+E2 Masked mean,2,17.0,2261,train_loss,0.4551
+E2 Masked mean,2,17.0,2261,eval_loss,0.5379011034965515
+E2 Masked mean,2,18.0,2394,train_loss,0.4476
+E2 Masked mean,2,18.0,2394,eval_loss,0.5329334735870361
+E2 Masked mean,2,19.0,2527,train_loss,0.4396
+E2 Masked mean,2,19.0,2527,eval_loss,0.5332545638084412
+E2 Masked mean,2,20.0,2660,train_loss,0.4306
+E2 Masked mean,2,20.0,2660,eval_loss,0.5732791423797607
+E2 Masked mean,2,21.0,2793,train_loss,0.4247
+E2 Masked mean,2,21.0,2793,eval_loss,0.5412375330924988
+E2 Masked mean,2,22.0,2926,train_loss,0.4147
+E2 Masked mean,2,22.0,2926,eval_loss,0.5471957325935364
+E2 Masked mean,3,1.0,130,train_loss,0.7117
+E2 Masked mean,3,1.0,130,eval_loss,0.6943954229354858
+E2 Masked mean,3,2.0,260,train_loss,0.6827
+E2 Masked mean,3,2.0,260,eval_loss,0.6911444067955017
+E2 Masked mean,3,3.0,390,train_loss,0.6611
+E2 Masked mean,3,3.0,390,eval_loss,0.64344722032547
+E2 Masked mean,3,4.0,520,train_loss,0.6332
+E2 Masked mean,3,4.0,520,eval_loss,0.6330679059028625
+E2 Masked mean,3,5.0,650,train_loss,0.6106
+E2 Masked mean,3,5.0,650,eval_loss,0.5892384648323059
+E2 Masked mean,3,6.0,780,train_loss,0.5818
+E2 Masked mean,3,6.0,780,eval_loss,0.5641864538192749
+E2 Masked mean,3,7.0,910,train_loss,0.5624
+E2 Masked mean,3,7.0,910,eval_loss,0.5504948496818542
+E2 Masked mean,3,8.0,1040,train_loss,0.5416
+E2 Masked mean,3,8.0,1040,eval_loss,0.5365444421768188
+E2 Masked mean,3,9.0,1170,train_loss,0.5265
+E2 Masked mean,3,9.0,1170,eval_loss,0.5332887172698975
+E2 Masked mean,3,10.0,1300,train_loss,0.515
+E2 Masked mean,3,10.0,1300,eval_loss,0.5257045030593872
+E2 Masked mean,3,11.0,1430,train_loss,0.5044
+E2 Masked mean,3,11.0,1430,eval_loss,0.521091103553772
+E2 Masked mean,3,12.0,1560,train_loss,0.4951
+E2 Masked mean,3,12.0,1560,eval_loss,0.5252981185913086
+E2 Masked mean,3,13.0,1690,train_loss,0.4874
+E2 Masked mean,3,13.0,1690,eval_loss,0.5547557473182678
+E2 Masked mean,3,14.0,1820,train_loss,0.4804
+E2 Masked mean,3,14.0,1820,eval_loss,0.5333041548728943
+E2 Masked mean,3,15.0,1950,train_loss,0.4728
+E2 Masked mean,3,15.0,1950,eval_loss,0.5306112766265869
+E2 Masked mean,3,16.0,2080,train_loss,0.4651
+E2 Masked mean,3,16.0,2080,eval_loss,0.5334769487380981
+E2 Masked mean,3,17.0,2210,train_loss,0.4597
+E2 Masked mean,3,17.0,2210,eval_loss,0.5402262806892395
+E2 Masked mean,3,18.0,2340,train_loss,0.4493
+E2 Masked mean,3,18.0,2340,eval_loss,0.5680667757987976
+E2 Masked mean,4,1.0,134,train_loss,0.6977
+E2 Masked mean,4,1.0,134,eval_loss,0.679565966129303
+E2 Masked mean,4,2.0,268,train_loss,0.6814
+E2 Masked mean,4,2.0,268,eval_loss,0.6606631278991699
+E2 Masked mean,4,3.0,402,train_loss,0.6594
+E2 Masked mean,4,3.0,402,eval_loss,0.6284017562866211
+E2 Masked mean,4,4.0,536,train_loss,0.6359
+E2 Masked mean,4,4.0,536,eval_loss,0.6033267378807068
+E2 Masked mean,4,5.0,670,train_loss,0.6112
+E2 Masked mean,4,5.0,670,eval_loss,0.5849162936210632
+E2 Masked mean,4,6.0,804,train_loss,0.5844
+E2 Masked mean,4,6.0,804,eval_loss,0.553062379360199
+E2 Masked mean,4,7.0,938,train_loss,0.5601
+E2 Masked mean,4,7.0,938,eval_loss,0.5384841561317444
+E2 Masked mean,4,8.0,1072,train_loss,0.5376
+E2 Masked mean,4,8.0,1072,eval_loss,0.5271929502487183
+E2 Masked mean,4,9.0,1206,train_loss,0.5241
+E2 Masked mean,4,9.0,1206,eval_loss,0.5440797805786133
+E2 Masked mean,4,10.0,1340,train_loss,0.5116
+E2 Masked mean,4,10.0,1340,eval_loss,0.5166441202163696
+E2 Masked mean,4,11.0,1474,train_loss,0.5003
+E2 Masked mean,4,11.0,1474,eval_loss,0.5187444090843201
+E2 Masked mean,4,12.0,1608,train_loss,0.4938
+E2 Masked mean,4,12.0,1608,eval_loss,0.5221291184425354
+E2 Masked mean,4,13.0,1742,train_loss,0.484
+E2 Masked mean,4,13.0,1742,eval_loss,0.5228241086006165
+E2 Masked mean,4,14.0,1876,train_loss,0.4778
+E2 Masked mean,4,14.0,1876,eval_loss,0.5121966004371643
+E2 Masked mean,4,15.0,2010,train_loss,0.47
+E2 Masked mean,4,15.0,2010,eval_loss,0.5184038281440735
+E2 Masked mean,4,16.0,2144,train_loss,0.4626
+E2 Masked mean,4,16.0,2144,eval_loss,0.512910008430481
+E2 Masked mean,4,17.0,2278,train_loss,0.4563
+E2 Masked mean,4,17.0,2278,eval_loss,0.5419707894325256
+E2 Masked mean,4,18.0,2412,train_loss,0.4474
+E2 Masked mean,4,18.0,2412,eval_loss,0.5264628529548645
+E2 Masked mean,4,19.0,2546,train_loss,0.4374
+E2 Masked mean,4,19.0,2546,eval_loss,0.5314306020736694
+E2 Masked mean,4,20.0,2680,train_loss,0.431
+E2 Masked mean,4,20.0,2680,eval_loss,0.5412102937698364
+E2 Masked mean,4,21.0,2814,train_loss,0.4277
+E2 Masked mean,4,21.0,2814,eval_loss,0.5445456504821777
+E2 Masked mean,4,22.0,2948,train_loss,0.4168
+E2 Masked mean,4,22.0,2948,eval_loss,0.5502292513847351
+E2 Masked mean,5,1.0,131,train_loss,0.7119
+E2 Masked mean,5,1.0,131,eval_loss,0.7073919773101807
+E2 Masked mean,5,2.0,262,train_loss,0.6789
+E2 Masked mean,5,2.0,262,eval_loss,0.7256218194961548
+E2 Masked mean,5,3.0,393,train_loss,0.6624
+E2 Masked mean,5,3.0,393,eval_loss,0.6747586727142334
+E2 Masked mean,5,4.0,524,train_loss,0.6407
+E2 Masked mean,5,4.0,524,eval_loss,0.6502618789672852
+E2 Masked mean,5,5.0,655,train_loss,0.6155
+E2 Masked mean,5,5.0,655,eval_loss,0.626392662525177
+E2 Masked mean,5,6.0,786,train_loss,0.5904
+E2 Masked mean,5,6.0,786,eval_loss,0.6043452620506287
+E2 Masked mean,5,7.0,917,train_loss,0.5639
+E2 Masked mean,5,7.0,917,eval_loss,0.575532078742981
+E2 Masked mean,5,8.0,1048,train_loss,0.5395
+E2 Masked mean,5,8.0,1048,eval_loss,0.547823965549469
+E2 Masked mean,5,9.0,1179,train_loss,0.5284
+E2 Masked mean,5,9.0,1179,eval_loss,0.5399196743965149
+E2 Masked mean,5,10.0,1310,train_loss,0.516
+E2 Masked mean,5,10.0,1310,eval_loss,0.5380303859710693
+E2 Masked mean,5,11.0,1441,train_loss,0.5039
+E2 Masked mean,5,11.0,1441,eval_loss,0.5331051349639893
+E2 Masked mean,5,12.0,1572,train_loss,0.4933
+E2 Masked mean,5,12.0,1572,eval_loss,0.5398359298706055
+E2 Masked mean,5,13.0,1703,train_loss,0.4906
+E2 Masked mean,5,13.0,1703,eval_loss,0.5469552874565125
+E2 Masked mean,5,14.0,1834,train_loss,0.4795
+E2 Masked mean,5,14.0,1834,eval_loss,0.5582719445228577
+E2 Masked mean,5,15.0,1965,train_loss,0.4761
+E2 Masked mean,5,15.0,1965,eval_loss,0.5360201597213745
+E2 Masked mean,5,16.0,2096,train_loss,0.4685
+E2 Masked mean,5,16.0,2096,eval_loss,0.5392118692398071
+E2 Masked mean,5,17.0,2227,train_loss,0.4596
+E2 Masked mean,5,17.0,2227,eval_loss,0.5452190637588501
+E2 Masked mean,5,18.0,2358,train_loss,0.4516
+E2 Masked mean,5,18.0,2358,eval_loss,0.5635849237442017
+E2 Masked mean,5,19.0,2489,train_loss,0.4454
+E2 Masked mean,5,19.0,2489,eval_loss,0.5575279593467712
+E2 Masked mean,5,20.0,2620,train_loss,0.4375
+E2 Masked mean,5,20.0,2620,eval_loss,0.5754232406616211
+E2 Masked mean,5,21.0,2751,train_loss,0.4284
+E2 Masked mean,5,21.0,2751,eval_loss,0.5706280469894409
+E2 Masked mean,5,22.0,2882,train_loss,0.4216
+E2 Masked mean,5,22.0,2882,eval_loss,0.5638977289199829
+E2 Masked mean,5,23.0,3013,train_loss,0.4173
+E2 Masked mean,5,23.0,3013,eval_loss,0.5883256196975708
+E2 Masked mean,5,24.0,3144,train_loss,0.4097
+E2 Masked mean,5,24.0,3144,eval_loss,0.5956743955612183
+E2 Masked mean,5,25.0,3275,train_loss,0.4059
+E2 Masked mean,5,25.0,3275,eval_loss,0.5877014398574829
+E3 CLS + Center-K,1,1.0,130,train_loss,0.704
+E3 CLS + Center-K,1,1.0,130,eval_loss,0.678798496723175
+E3 CLS + Center-K,1,2.0,260,train_loss,0.6834
+E3 CLS + Center-K,1,2.0,260,eval_loss,0.6492486596107483
+E3 CLS + Center-K,1,3.0,390,train_loss,0.6516
+E3 CLS + Center-K,1,3.0,390,eval_loss,0.6366115808486938
+E3 CLS + Center-K,1,4.0,520,train_loss,0.6076
+E3 CLS + Center-K,1,4.0,520,eval_loss,0.5770466327667236
+E3 CLS + Center-K,1,5.0,650,train_loss,0.5669
+E3 CLS + Center-K,1,5.0,650,eval_loss,0.5765777826309204
+E3 CLS + Center-K,1,6.0,780,train_loss,0.5374
+E3 CLS + Center-K,1,6.0,780,eval_loss,0.5320354700088501
+E3 CLS + Center-K,1,7.0,910,train_loss,0.5222
+E3 CLS + Center-K,1,7.0,910,eval_loss,0.5406585931777954
+E3 CLS + Center-K,1,8.0,1040,train_loss,0.5143
+E3 CLS + Center-K,1,8.0,1040,eval_loss,0.5329040884971619
+E3 CLS + Center-K,1,9.0,1170,train_loss,0.5022
+E3 CLS + Center-K,1,9.0,1170,eval_loss,0.5313542485237122
+E3 CLS + Center-K,1,10.0,1300,train_loss,0.496
+E3 CLS + Center-K,1,10.0,1300,eval_loss,0.529717206954956
+E3 CLS + Center-K,1,11.0,1430,train_loss,0.4874
+E3 CLS + Center-K,1,11.0,1430,eval_loss,0.526886522769928
+E3 CLS + Center-K,1,12.0,1560,train_loss,0.4776
+E3 CLS + Center-K,1,12.0,1560,eval_loss,0.5170794129371643
+E3 CLS + Center-K,1,13.0,1690,train_loss,0.4701
+E3 CLS + Center-K,1,13.0,1690,eval_loss,0.5322949886322021
+E3 CLS + Center-K,1,14.0,1820,train_loss,0.4636
+E3 CLS + Center-K,1,14.0,1820,eval_loss,0.5295476913452148
+E3 CLS + Center-K,1,15.0,1950,train_loss,0.4558
+E3 CLS + Center-K,1,15.0,1950,eval_loss,0.5309339761734009
+E3 CLS + Center-K,1,16.0,2080,train_loss,0.4472
+E3 CLS + Center-K,1,16.0,2080,eval_loss,0.5326482653617859
+E3 CLS + Center-K,1,17.0,2210,train_loss,0.4404
+E3 CLS + Center-K,1,17.0,2210,eval_loss,0.5345248579978943
+E3 CLS + Center-K,1,18.0,2340,train_loss,0.4326
+E3 CLS + Center-K,1,18.0,2340,eval_loss,0.5494836568832397
+E3 CLS + Center-K,2,1.0,133,train_loss,0.7023
+E3 CLS + Center-K,2,1.0,133,eval_loss,0.6806582808494568
+E3 CLS + Center-K,2,2.0,266,train_loss,0.6829
+E3 CLS + Center-K,2,2.0,266,eval_loss,0.6668382883071899
+E3 CLS + Center-K,2,3.0,399,train_loss,0.6574
+E3 CLS + Center-K,2,3.0,399,eval_loss,0.6232823133468628
+E3 CLS + Center-K,2,4.0,532,train_loss,0.6144
+E3 CLS + Center-K,2,4.0,532,eval_loss,0.5861472487449646
+E3 CLS + Center-K,2,5.0,665,train_loss,0.5765
+E3 CLS + Center-K,2,5.0,665,eval_loss,0.5437802672386169
+E3 CLS + Center-K,2,6.0,798,train_loss,0.5487
+E3 CLS + Center-K,2,6.0,798,eval_loss,0.5386176705360413
+E3 CLS + Center-K,2,7.0,931,train_loss,0.5271
+E3 CLS + Center-K,2,7.0,931,eval_loss,0.5232715606689453
+E3 CLS + Center-K,2,8.0,1064,train_loss,0.5125
+E3 CLS + Center-K,2,8.0,1064,eval_loss,0.5244730114936829
+E3 CLS + Center-K,2,9.0,1197,train_loss,0.5041
+E3 CLS + Center-K,2,9.0,1197,eval_loss,0.5146422386169434
+E3 CLS + Center-K,2,10.0,1330,train_loss,0.4923
+E3 CLS + Center-K,2,10.0,1330,eval_loss,0.5142582058906555
+E3 CLS + Center-K,2,11.0,1463,train_loss,0.4866
+E3 CLS + Center-K,2,11.0,1463,eval_loss,0.5108372569084167
+E3 CLS + Center-K,2,12.0,1596,train_loss,0.4784
+E3 CLS + Center-K,2,12.0,1596,eval_loss,0.5143393278121948
+E3 CLS + Center-K,2,13.0,1729,train_loss,0.4693
+E3 CLS + Center-K,2,13.0,1729,eval_loss,0.5157874822616577
+E3 CLS + Center-K,2,14.0,1862,train_loss,0.4617
+E3 CLS + Center-K,2,14.0,1862,eval_loss,0.5179065465927124
+E3 CLS + Center-K,2,15.0,1995,train_loss,0.454
+E3 CLS + Center-K,2,15.0,1995,eval_loss,0.532812237739563
+E3 CLS + Center-K,2,16.0,2128,train_loss,0.445
+E3 CLS + Center-K,2,16.0,2128,eval_loss,0.520071804523468
+E3 CLS + Center-K,2,17.0,2261,train_loss,0.4374
+E3 CLS + Center-K,2,17.0,2261,eval_loss,0.5457602739334106
+E3 CLS + Center-K,2,18.0,2394,train_loss,0.4289
+E3 CLS + Center-K,2,18.0,2394,eval_loss,0.5464411377906799
+E3 CLS + Center-K,2,19.0,2527,train_loss,0.4194
+E3 CLS + Center-K,2,19.0,2527,eval_loss,0.5435625314712524
+E3 CLS + Center-K,2,20.0,2660,train_loss,0.4133
+E3 CLS + Center-K,2,20.0,2660,eval_loss,0.5820634365081787
+E3 CLS + Center-K,3,1.0,130,train_loss,0.7081
+E3 CLS + Center-K,3,1.0,130,eval_loss,0.6776165962219238
+E3 CLS + Center-K,3,2.0,260,train_loss,0.6847
+E3 CLS + Center-K,3,2.0,260,eval_loss,0.6536948680877686
+E3 CLS + Center-K,3,3.0,390,train_loss,0.6573
+E3 CLS + Center-K,3,3.0,390,eval_loss,0.6188759803771973
+E3 CLS + Center-K,3,4.0,520,train_loss,0.6178
+E3 CLS + Center-K,3,4.0,520,eval_loss,0.584551990032196
+E3 CLS + Center-K,3,5.0,650,train_loss,0.5766
+E3 CLS + Center-K,3,5.0,650,eval_loss,0.5570005178451538
+E3 CLS + Center-K,3,6.0,780,train_loss,0.5458
+E3 CLS + Center-K,3,6.0,780,eval_loss,0.534000039100647
+E3 CLS + Center-K,3,7.0,910,train_loss,0.5281
+E3 CLS + Center-K,3,7.0,910,eval_loss,0.5310177206993103
+E3 CLS + Center-K,3,8.0,1040,train_loss,0.5152
+E3 CLS + Center-K,3,8.0,1040,eval_loss,0.5327587127685547
+E3 CLS + Center-K,3,9.0,1170,train_loss,0.504
+E3 CLS + Center-K,3,9.0,1170,eval_loss,0.5274645090103149
+E3 CLS + Center-K,3,10.0,1300,train_loss,0.4958
+E3 CLS + Center-K,3,10.0,1300,eval_loss,0.5250762701034546
+E3 CLS + Center-K,3,11.0,1430,train_loss,0.4872
+E3 CLS + Center-K,3,11.0,1430,eval_loss,0.534489095211029
+E3 CLS + Center-K,3,12.0,1560,train_loss,0.4809
+E3 CLS + Center-K,3,12.0,1560,eval_loss,0.5262734889984131
+E3 CLS + Center-K,3,13.0,1690,train_loss,0.4712
+E3 CLS + Center-K,3,13.0,1690,eval_loss,0.5309766530990601
+E3 CLS + Center-K,3,14.0,1820,train_loss,0.4658
+E3 CLS + Center-K,3,14.0,1820,eval_loss,0.5344238877296448
+E3 CLS + Center-K,3,15.0,1950,train_loss,0.4568
+E3 CLS + Center-K,3,15.0,1950,eval_loss,0.5293025970458984
+E3 CLS + Center-K,3,16.0,2080,train_loss,0.4482
+E3 CLS + Center-K,3,16.0,2080,eval_loss,0.5372784733772278
+E3 CLS + Center-K,3,17.0,2210,train_loss,0.4372
+E3 CLS + Center-K,3,17.0,2210,eval_loss,0.553138792514801
+E3 CLS + Center-K,3,18.0,2340,train_loss,0.4328
+E3 CLS + Center-K,3,18.0,2340,eval_loss,0.5605301856994629
+E3 CLS + Center-K,3,19.0,2470,train_loss,0.4232
+E3 CLS + Center-K,3,19.0,2470,eval_loss,0.563265323638916
+E3 CLS + Center-K,4,1.0,134,train_loss,0.7092
+E3 CLS + Center-K,4,1.0,134,eval_loss,0.6820693016052246
+E3 CLS + Center-K,4,2.0,268,train_loss,0.6896
+E3 CLS + Center-K,4,2.0,268,eval_loss,0.6724247932434082
+E3 CLS + Center-K,4,3.0,402,train_loss,0.6655
+E3 CLS + Center-K,4,3.0,402,eval_loss,0.6395676732063293
+E3 CLS + Center-K,4,4.0,536,train_loss,0.6298
+E3 CLS + Center-K,4,4.0,536,eval_loss,0.5919941067695618
+E3 CLS + Center-K,4,5.0,670,train_loss,0.5852
+E3 CLS + Center-K,4,5.0,670,eval_loss,0.5428405404090881
+E3 CLS + Center-K,4,6.0,804,train_loss,0.5504
+E3 CLS + Center-K,4,6.0,804,eval_loss,0.5191873908042908
+E3 CLS + Center-K,4,7.0,938,train_loss,0.5287
+E3 CLS + Center-K,4,7.0,938,eval_loss,0.5225257277488708
+E3 CLS + Center-K,4,8.0,1072,train_loss,0.5183
+E3 CLS + Center-K,4,8.0,1072,eval_loss,0.5181049704551697
+E3 CLS + Center-K,4,9.0,1206,train_loss,0.5065
+E3 CLS + Center-K,4,9.0,1206,eval_loss,0.5130242109298706
+E3 CLS + Center-K,4,10.0,1340,train_loss,0.4982
+E3 CLS + Center-K,4,10.0,1340,eval_loss,0.5093163847923279
+E3 CLS + Center-K,4,11.0,1474,train_loss,0.4889
+E3 CLS + Center-K,4,11.0,1474,eval_loss,0.5111876130104065
+E3 CLS + Center-K,4,12.0,1608,train_loss,0.4815
+E3 CLS + Center-K,4,12.0,1608,eval_loss,0.5111710429191589
+E3 CLS + Center-K,4,13.0,1742,train_loss,0.4724
+E3 CLS + Center-K,4,13.0,1742,eval_loss,0.5161371231079102
+E3 CLS + Center-K,4,14.0,1876,train_loss,0.4664
+E3 CLS + Center-K,4,14.0,1876,eval_loss,0.5167733430862427
+E3 CLS + Center-K,4,15.0,2010,train_loss,0.4567
+E3 CLS + Center-K,4,15.0,2010,eval_loss,0.5175592303276062
+E3 CLS + Center-K,4,16.0,2144,train_loss,0.4463
+E3 CLS + Center-K,4,16.0,2144,eval_loss,0.5350713729858398
+E3 CLS + Center-K,4,17.0,2278,train_loss,0.4391
+E3 CLS + Center-K,4,17.0,2278,eval_loss,0.5512307286262512
+E3 CLS + Center-K,4,18.0,2412,train_loss,0.4302
+E3 CLS + Center-K,4,18.0,2412,eval_loss,0.5476582050323486
+E3 CLS + Center-K,5,1.0,131,train_loss,0.705
+E3 CLS + Center-K,5,1.0,131,eval_loss,0.6837234497070312
+E3 CLS + Center-K,5,2.0,262,train_loss,0.6855
+E3 CLS + Center-K,5,2.0,262,eval_loss,0.6629027724266052
+E3 CLS + Center-K,5,3.0,393,train_loss,0.6682
+E3 CLS + Center-K,5,3.0,393,eval_loss,0.6347594857215881
+E3 CLS + Center-K,5,4.0,524,train_loss,0.6369
+E3 CLS + Center-K,5,4.0,524,eval_loss,0.6096097230911255
+E3 CLS + Center-K,5,5.0,655,train_loss,0.5935
+E3 CLS + Center-K,5,5.0,655,eval_loss,0.5776699781417847
+E3 CLS + Center-K,5,6.0,786,train_loss,0.5555
+E3 CLS + Center-K,5,6.0,786,eval_loss,0.5587961673736572
+E3 CLS + Center-K,5,7.0,917,train_loss,0.5329
+E3 CLS + Center-K,5,7.0,917,eval_loss,0.5475422143936157
+E3 CLS + Center-K,5,8.0,1048,train_loss,0.5195
+E3 CLS + Center-K,5,8.0,1048,eval_loss,0.542438805103302
+E3 CLS + Center-K,5,9.0,1179,train_loss,0.5097
+E3 CLS + Center-K,5,9.0,1179,eval_loss,0.5438763499259949
+E3 CLS + Center-K,5,10.0,1310,train_loss,0.4981
+E3 CLS + Center-K,5,10.0,1310,eval_loss,0.5452637076377869
+E3 CLS + Center-K,5,11.0,1441,train_loss,0.4888
+E3 CLS + Center-K,5,11.0,1441,eval_loss,0.5458181500434875
+E3 CLS + Center-K,5,12.0,1572,train_loss,0.4807
+E3 CLS + Center-K,5,12.0,1572,eval_loss,0.5458509922027588
+E3 CLS + Center-K,5,13.0,1703,train_loss,0.475
+E3 CLS + Center-K,5,13.0,1703,eval_loss,0.5503591895103455
+E3 CLS + Center-K,5,14.0,1834,train_loss,0.465
+E3 CLS + Center-K,5,14.0,1834,eval_loss,0.5470387935638428
+E3 CLS + Center-K,5,15.0,1965,train_loss,0.4586
+E3 CLS + Center-K,5,15.0,1965,eval_loss,0.548780620098114
+E3 CLS + Center-K,5,16.0,2096,train_loss,0.4491
+E3 CLS + Center-K,5,16.0,2096,eval_loss,0.5631980299949646
+E3 CLS + Center-K,5,17.0,2227,train_loss,0.4401
+E3 CLS + Center-K,5,17.0,2227,eval_loss,0.5706847906112671
+E3 CLS + Center-K,5,18.0,2358,train_loss,0.4324
+E3 CLS + Center-K,5,18.0,2358,eval_loss,0.5766180157661438
+E3 CLS + Center-K,5,19.0,2489,train_loss,0.4229
+E3 CLS + Center-K,5,19.0,2489,eval_loss,0.5825198292732239
+E3 CLS + Center-K,5,20.0,2620,train_loss,0.4144
+E3 CLS + Center-K,5,20.0,2620,eval_loss,0.5906249284744263
+E4 Center-K + mean,1,1.0,130,train_loss,0.7018
+E4 Center-K + mean,1,1.0,130,eval_loss,0.6747743487358093
+E4 Center-K + mean,1,2.0,260,train_loss,0.68
+E4 Center-K + mean,1,2.0,260,eval_loss,0.6542279720306396
+E4 Center-K + mean,1,3.0,390,train_loss,0.6543
+E4 Center-K + mean,1,3.0,390,eval_loss,0.6355701088905334
+E4 Center-K + mean,1,4.0,520,train_loss,0.6124
+E4 Center-K + mean,1,4.0,520,eval_loss,0.5712273716926575
+E4 Center-K + mean,1,5.0,650,train_loss,0.5654
+E4 Center-K + mean,1,5.0,650,eval_loss,0.5577736496925354
+E4 Center-K + mean,1,6.0,780,train_loss,0.5362
+E4 Center-K + mean,1,6.0,780,eval_loss,0.5342610478401184
+E4 Center-K + mean,1,7.0,910,train_loss,0.5219
+E4 Center-K + mean,1,7.0,910,eval_loss,0.5303638577461243
+E4 Center-K + mean,1,8.0,1040,train_loss,0.5119
+E4 Center-K + mean,1,8.0,1040,eval_loss,0.5287312865257263
+E4 Center-K + mean,1,9.0,1170,train_loss,0.501
+E4 Center-K + mean,1,9.0,1170,eval_loss,0.5282418727874756
+E4 Center-K + mean,1,10.0,1300,train_loss,0.4938
+E4 Center-K + mean,1,10.0,1300,eval_loss,0.5290151238441467
+E4 Center-K + mean,1,11.0,1430,train_loss,0.4848
+E4 Center-K + mean,1,11.0,1430,eval_loss,0.5202627778053284
+E4 Center-K + mean,1,12.0,1560,train_loss,0.4767
+E4 Center-K + mean,1,12.0,1560,eval_loss,0.5167382955551147
+E4 Center-K + mean,1,13.0,1690,train_loss,0.4689
+E4 Center-K + mean,1,13.0,1690,eval_loss,0.5251603722572327
+E4 Center-K + mean,1,14.0,1820,train_loss,0.4595
+E4 Center-K + mean,1,14.0,1820,eval_loss,0.5275195240974426
+E4 Center-K + mean,1,15.0,1950,train_loss,0.4519
+E4 Center-K + mean,1,15.0,1950,eval_loss,0.5302823781967163
+E4 Center-K + mean,1,16.0,2080,train_loss,0.4457
+E4 Center-K + mean,1,16.0,2080,eval_loss,0.5369904041290283
+E4 Center-K + mean,1,17.0,2210,train_loss,0.4358
+E4 Center-K + mean,1,17.0,2210,eval_loss,0.5419541597366333
+E4 Center-K + mean,1,18.0,2340,train_loss,0.4271
+E4 Center-K + mean,1,18.0,2340,eval_loss,0.5518983006477356
+E4 Center-K + mean,2,1.0,133,train_loss,0.7051
+E4 Center-K + mean,2,1.0,133,eval_loss,0.6828289031982422
+E4 Center-K + mean,2,2.0,266,train_loss,0.6787
+E4 Center-K + mean,2,2.0,266,eval_loss,0.6731614470481873
+E4 Center-K + mean,2,3.0,399,train_loss,0.6456
+E4 Center-K + mean,2,3.0,399,eval_loss,0.6210694909095764
+E4 Center-K + mean,2,4.0,532,train_loss,0.6021
+E4 Center-K + mean,2,4.0,532,eval_loss,0.5892806053161621
+E4 Center-K + mean,2,5.0,665,train_loss,0.563
+E4 Center-K + mean,2,5.0,665,eval_loss,0.5331355333328247
+E4 Center-K + mean,2,6.0,798,train_loss,0.538
+E4 Center-K + mean,2,6.0,798,eval_loss,0.5258976221084595
+E4 Center-K + mean,2,7.0,931,train_loss,0.5196
+E4 Center-K + mean,2,7.0,931,eval_loss,0.5199092626571655
+E4 Center-K + mean,2,8.0,1064,train_loss,0.5081
+E4 Center-K + mean,2,8.0,1064,eval_loss,0.5160874724388123
+E4 Center-K + mean,2,9.0,1197,train_loss,0.4996
+E4 Center-K + mean,2,9.0,1197,eval_loss,0.5100098848342896
+E4 Center-K + mean,2,10.0,1330,train_loss,0.4893
+E4 Center-K + mean,2,10.0,1330,eval_loss,0.508899986743927
+E4 Center-K + mean,2,11.0,1463,train_loss,0.4829
+E4 Center-K + mean,2,11.0,1463,eval_loss,0.5045512318611145
+E4 Center-K + mean,2,12.0,1596,train_loss,0.4736
+E4 Center-K + mean,2,12.0,1596,eval_loss,0.5040037035942078
+E4 Center-K + mean,2,13.0,1729,train_loss,0.4646
+E4 Center-K + mean,2,13.0,1729,eval_loss,0.5188776254653931
+E4 Center-K + mean,2,14.0,1862,train_loss,0.4559
+E4 Center-K + mean,2,14.0,1862,eval_loss,0.5097863078117371
+E4 Center-K + mean,2,15.0,1995,train_loss,0.447
+E4 Center-K + mean,2,15.0,1995,eval_loss,0.5312178134918213
+E4 Center-K + mean,2,16.0,2128,train_loss,0.4381
+E4 Center-K + mean,2,16.0,2128,eval_loss,0.5218430161476135
+E4 Center-K + mean,2,17.0,2261,train_loss,0.4333
+E4 Center-K + mean,2,17.0,2261,eval_loss,0.5503079891204834
+E4 Center-K + mean,2,18.0,2394,train_loss,0.4202
+E4 Center-K + mean,2,18.0,2394,eval_loss,0.5295948386192322
+E4 Center-K + mean,2,19.0,2527,train_loss,0.4123
+E4 Center-K + mean,2,19.0,2527,eval_loss,0.5371034741401672
+E4 Center-K + mean,2,20.0,2660,train_loss,0.4054
+E4 Center-K + mean,2,20.0,2660,eval_loss,0.5727769732475281
+E4 Center-K + mean,3,1.0,130,train_loss,0.7042
+E4 Center-K + mean,3,1.0,130,eval_loss,0.6717934608459473
+E4 Center-K + mean,3,2.0,260,train_loss,0.6802
+E4 Center-K + mean,3,2.0,260,eval_loss,0.6477288603782654
+E4 Center-K + mean,3,3.0,390,train_loss,0.6518
+E4 Center-K + mean,3,3.0,390,eval_loss,0.6196448802947998
+E4 Center-K + mean,3,4.0,520,train_loss,0.6167
+E4 Center-K + mean,3,4.0,520,eval_loss,0.5911188125610352
+E4 Center-K + mean,3,5.0,650,train_loss,0.5764
+E4 Center-K + mean,3,5.0,650,eval_loss,0.5619045495986938
+E4 Center-K + mean,3,6.0,780,train_loss,0.5444
+E4 Center-K + mean,3,6.0,780,eval_loss,0.5375099182128906
+E4 Center-K + mean,3,7.0,910,train_loss,0.5266
+E4 Center-K + mean,3,7.0,910,eval_loss,0.5344325304031372
+E4 Center-K + mean,3,8.0,1040,train_loss,0.5153
+E4 Center-K + mean,3,8.0,1040,eval_loss,0.5358656048774719
+E4 Center-K + mean,3,9.0,1170,train_loss,0.5042
+E4 Center-K + mean,3,9.0,1170,eval_loss,0.5264083743095398
+E4 Center-K + mean,3,10.0,1300,train_loss,0.496
+E4 Center-K + mean,3,10.0,1300,eval_loss,0.5249451994895935
+E4 Center-K + mean,3,11.0,1430,train_loss,0.4886
+E4 Center-K + mean,3,11.0,1430,eval_loss,0.527518630027771
+E4 Center-K + mean,3,12.0,1560,train_loss,0.4794
+E4 Center-K + mean,3,12.0,1560,eval_loss,0.5258366465568542
+E4 Center-K + mean,3,13.0,1690,train_loss,0.4713
+E4 Center-K + mean,3,13.0,1690,eval_loss,0.5292743444442749
+E4 Center-K + mean,3,14.0,1820,train_loss,0.4651
+E4 Center-K + mean,3,14.0,1820,eval_loss,0.5376343131065369
+E4 Center-K + mean,3,15.0,1950,train_loss,0.4555
+E4 Center-K + mean,3,15.0,1950,eval_loss,0.5304626822471619
+E4 Center-K + mean,3,16.0,2080,train_loss,0.4463
+E4 Center-K + mean,3,16.0,2080,eval_loss,0.5291436910629272
+E4 Center-K + mean,3,17.0,2210,train_loss,0.4376
+E4 Center-K + mean,3,17.0,2210,eval_loss,0.5542563199996948
+E4 Center-K + mean,3,18.0,2340,train_loss,0.4328
+E4 Center-K + mean,3,18.0,2340,eval_loss,0.5567787885665894
+E4 Center-K + mean,3,19.0,2470,train_loss,0.4225
+E4 Center-K + mean,3,19.0,2470,eval_loss,0.566624104976654
+E4 Center-K + mean,4,1.0,134,train_loss,0.7094
+E4 Center-K + mean,4,1.0,134,eval_loss,0.6852893233299255
+E4 Center-K + mean,4,2.0,268,train_loss,0.6834
+E4 Center-K + mean,4,2.0,268,eval_loss,0.668003499507904
+E4 Center-K + mean,4,3.0,402,train_loss,0.6511
+E4 Center-K + mean,4,3.0,402,eval_loss,0.6143316030502319
+E4 Center-K + mean,4,4.0,536,train_loss,0.6146
+E4 Center-K + mean,4,4.0,536,eval_loss,0.5701181888580322
+E4 Center-K + mean,4,5.0,670,train_loss,0.5732
+E4 Center-K + mean,4,5.0,670,eval_loss,0.5396901369094849
+E4 Center-K + mean,4,6.0,804,train_loss,0.542
+E4 Center-K + mean,4,6.0,804,eval_loss,0.5258090496063232
+E4 Center-K + mean,4,7.0,938,train_loss,0.5243
+E4 Center-K + mean,4,7.0,938,eval_loss,0.5303614735603333
+E4 Center-K + mean,4,8.0,1072,train_loss,0.5147
+E4 Center-K + mean,4,8.0,1072,eval_loss,0.5106105804443359
+E4 Center-K + mean,4,9.0,1206,train_loss,0.5032
+E4 Center-K + mean,4,9.0,1206,eval_loss,0.5193314552307129
+E4 Center-K + mean,4,10.0,1340,train_loss,0.4955
+E4 Center-K + mean,4,10.0,1340,eval_loss,0.5090238451957703
+E4 Center-K + mean,4,11.0,1474,train_loss,0.4866
+E4 Center-K + mean,4,11.0,1474,eval_loss,0.5068544745445251
+E4 Center-K + mean,4,12.0,1608,train_loss,0.4788
+E4 Center-K + mean,4,12.0,1608,eval_loss,0.5087996125221252
+E4 Center-K + mean,4,13.0,1742,train_loss,0.4698
+E4 Center-K + mean,4,13.0,1742,eval_loss,0.5125199556350708
+E4 Center-K + mean,4,14.0,1876,train_loss,0.4629
+E4 Center-K + mean,4,14.0,1876,eval_loss,0.5109904408454895
+E4 Center-K + mean,4,15.0,2010,train_loss,0.4545
+E4 Center-K + mean,4,15.0,2010,eval_loss,0.5163819789886475
+E4 Center-K + mean,4,16.0,2144,train_loss,0.4457
+E4 Center-K + mean,4,16.0,2144,eval_loss,0.5271062850952148
+E4 Center-K + mean,4,17.0,2278,train_loss,0.4379
+E4 Center-K + mean,4,17.0,2278,eval_loss,0.5368603467941284
+E4 Center-K + mean,4,18.0,2412,train_loss,0.4269
+E4 Center-K + mean,4,18.0,2412,eval_loss,0.5339779257774353
+E4 Center-K + mean,4,19.0,2546,train_loss,0.4173
+E4 Center-K + mean,4,19.0,2546,eval_loss,0.5415040254592896
+E4 Center-K + mean,5,1.0,131,train_loss,0.7097
+E4 Center-K + mean,5,1.0,131,eval_loss,0.7112439274787903
+E4 Center-K + mean,5,2.0,262,train_loss,0.6776
+E4 Center-K + mean,5,2.0,262,eval_loss,0.6923626661300659
+E4 Center-K + mean,5,3.0,393,train_loss,0.6548
+E4 Center-K + mean,5,3.0,393,eval_loss,0.6441003680229187
+E4 Center-K + mean,5,4.0,524,train_loss,0.6194
+E4 Center-K + mean,5,4.0,524,eval_loss,0.6048889756202698
+E4 Center-K + mean,5,5.0,655,train_loss,0.5778
+E4 Center-K + mean,5,5.0,655,eval_loss,0.5749334692955017
+E4 Center-K + mean,5,6.0,786,train_loss,0.5475
+E4 Center-K + mean,5,6.0,786,eval_loss,0.5624288320541382
+E4 Center-K + mean,5,7.0,917,train_loss,0.5296
+E4 Center-K + mean,5,7.0,917,eval_loss,0.5491396188735962
+E4 Center-K + mean,5,8.0,1048,train_loss,0.5149
+E4 Center-K + mean,5,8.0,1048,eval_loss,0.5511819124221802
+E4 Center-K + mean,5,9.0,1179,train_loss,0.5062
+E4 Center-K + mean,5,9.0,1179,eval_loss,0.5463157296180725
+E4 Center-K + mean,5,10.0,1310,train_loss,0.4989
+E4 Center-K + mean,5,10.0,1310,eval_loss,0.5383740663528442
+E4 Center-K + mean,5,11.0,1441,train_loss,0.4895
+E4 Center-K + mean,5,11.0,1441,eval_loss,0.5430065393447876
+E4 Center-K + mean,5,12.0,1572,train_loss,0.4819
+E4 Center-K + mean,5,12.0,1572,eval_loss,0.5520159006118774
+E4 Center-K + mean,5,13.0,1703,train_loss,0.4751
+E4 Center-K + mean,5,13.0,1703,eval_loss,0.551712155342102
+E4 Center-K + mean,5,14.0,1834,train_loss,0.4628
+E4 Center-K + mean,5,14.0,1834,eval_loss,0.5632362961769104
+E4 Center-K + mean,5,15.0,1965,train_loss,0.4599
+E4 Center-K + mean,5,15.0,1965,eval_loss,0.5405507683753967
+E4 Center-K + mean,5,16.0,2096,train_loss,0.4486
+E4 Center-K + mean,5,16.0,2096,eval_loss,0.554504930973053
+E4 Center-K + mean,5,17.0,2227,train_loss,0.4416
+E4 Center-K + mean,5,17.0,2227,eval_loss,0.562595546245575
+E4 Center-K + mean,5,18.0,2358,train_loss,0.4319
+E4 Center-K + mean,5,18.0,2358,eval_loss,0.5756750702857971
+E4 Center-K + mean,5,19.0,2489,train_loss,0.4226
+E4 Center-K + mean,5,19.0,2489,eval_loss,0.591290295124054
+E4 Center-K + mean,5,20.0,2620,train_loss,0.4158
+E4 Center-K + mean,5,20.0,2620,eval_loss,0.5869654417037964
+E4 Center-K + mean,5,21.0,2751,train_loss,0.4072
+E4 Center-K + mean,5,21.0,2751,eval_loss,0.5924984812736511

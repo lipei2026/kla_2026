@@ -1,0 +1,8 @@
+ZNF800 fold-aligned five-dimensional MetaModel prediction
+input_order: E4, LSTM, AAINDEX, CKSAAP, OBC
+threshold: 0.50
+candidate_K_sites: 24
+predicted_positive_sites: 5
+mean_Meta5D_score: 0.244234
+max_Meta5D_score: 0.835432
+positive_sites_ranked: K476, K482, K489, K537, K432

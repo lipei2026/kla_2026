@@ -1,0 +1,11 @@
+Fold-aligned five-dimensional MetaModel prediction
+input_order: E4, LSTM, AAINDEX, CKSAAP, OBC
+threshold: 0.50
+candidate_K_sites: 18
+predicted_positive_sites: 9
+mean_Meta5D_score: 0.439293
+max_Meta5D_score: 0.846500
+hit_rate@0.5: 0.500000
+hit_rate@0.7: 0.277778
+hit_rate@0.9: 0.000000
+positive_sites_ranked: K60, K212, K206, K360, K61, K441, K450, K353, K418

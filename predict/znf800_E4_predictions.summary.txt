@@ -1,0 +1,7 @@
+ZNF800 prediction with five-fold E4 ESM2 ensemble
+threshold: 0.50
+candidate_K_sites: 24
+predicted_positive_sites: 5
+mean_E4_score: 0.222911
+max_E4_score: 0.883903
+positive_sites_ranked: K476, K482, K489, K432, K537

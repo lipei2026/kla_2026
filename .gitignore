@@ -1,0 +1,57 @@
+# PyCharm IDE files
+.idea/
+.idea/**/*
+
+# Python cache files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local model weights and generated feature matrices. These artifacts are too
+# large for normal GitHub storage and can be regenerated from the training code.
+train/trained_models/
+train/modelscope/
+train/five_features/
+predict/models/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Downloaded/public-database caches
+data/uniprot_cache/
+data/uniprot_recovery_cache/
+
+# Private laboratory datasets and row-level laboratory predictions
+data/raw_data_lab.xlsx
+data/train_data_lab.xlsx
+data/lab_test_data*.xlsx
+predict/lab_*
+train/scores/E4_lab_weighted_lab_scores.xlsx
+train/scores/ESM2_E4_lab_weighted_reference_scores.csv
+
+# Local agent configuration
+.agents/
+.codex/
+
+# Local configuration
+.env
+.DS_Store

@@ -1,0 +1,8 @@
+ZNF800 prediction with lab-weighted E4 and retrained 5D MetaModel
+input_order: E4_lab_weighted, LSTM, AAINDEX, CKSAAP, OBC
+threshold: 0.50
+candidate_K_sites: 24
+predicted_positive_sites: 5
+mean_score: 0.275191
+max_score: 0.822789
+positive_sites_ranked: K482, K476, K489, K537, K432
